@@ -16,7 +16,8 @@
         "libs/settings",
         "libs/flashlog",
         "libs/datalogger",
-        "libs/color"
+        "libs/color",
+        "libs/codalAudio"
     ],
     "cloud": {
         "workspace": false,
